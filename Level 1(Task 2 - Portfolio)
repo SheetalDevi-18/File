@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles.css" />
     <title>My Portfolio</title>
   </head>
-  <body>
+  <body> 
     <header>
       <h1>Sheetal Devi</h1>
       <p>Web Developer | Full Stack Developer</p>
